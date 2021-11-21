@@ -1,0 +1,149 @@
+[
+    {
+        "transactionType": "transferBetweenAccounts",
+        "amount": 200,
+        "receiver": "154",
+        "sender": "156",
+        "id": 0
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 350,
+        "receiver": "156",
+        "sender": "156",
+        "id": 1
+    },
+    {
+        "transactionType": "deposit",
+        "amount": 50,
+        "receiver": "156",
+        "sender": "156",
+        "id": 2
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 50,
+        "receiver": "154",
+        "sender": "154",
+        "id": 3
+    },
+    {
+        "transactionType": "transferBetweenAccounts",
+        "amount": 500,
+        "receiver": "7895",
+        "sender": "123",
+        "id": 4
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 500,
+        "receiver": "168",
+        "sender": "168",
+        "id": 5
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 900,
+        "receiver": "168",
+        "sender": "168",
+        "id": 6
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 440,
+        "receiver": "123",
+        "sender": "123",
+        "id": 7
+    },
+    {
+        "transactionType": "deposit",
+        "amount": 500,
+        "receiver": "123",
+        "sender": "123",
+        "id": 8
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 50,
+        "receiver": "145",
+        "sender": "145",
+        "id": 9
+    },
+    {
+        "transactionType": "deposit",
+        "amount": 100,
+        "receiver": "145",
+        "sender": "145",
+        "id": 10
+    },
+    {
+        "transactionType": "transferBetweenAccounts",
+        "amount": 200,
+        "receiver": "168",
+        "sender": "7895",
+        "id": 11
+    },
+    {
+        "transactionType": "deposit",
+        "amount": 350,
+        "receiver": "145",
+        "sender": "145",
+        "id": 12
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 200,
+        "receiver": "154",
+        "sender": "154",
+        "id": 13
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 200,
+        "receiver": "172",
+        "sender": "172",
+        "id": 14
+    },
+    {
+        "transactionType": "transferBetweenAccounts",
+        "amount": 350,
+        "receiver": "172",
+        "sender": "7895",
+        "id": 15
+    },
+    {
+        "transactionType": "transferBetweenAccounts",
+        "amount": 500,
+        "receiver": "168",
+        "sender": "145",
+        "id": 16
+    },
+    {
+        "transactionType": "transferBetweenAccounts",
+        "amount": 400,
+        "receiver": "145",
+        "sender": "145",
+        "id": 17
+    },
+    {
+        "transactionType": "transferBetweenAccounts",
+        "amount": 400,
+        "receiver": "147",
+        "sender": "145",
+        "id": 18
+    },
+    {
+        "transactionType": "transferBetweenAccounts",
+        "amount": 200,
+        "receiver": "180",
+        "sender": "176",
+        "id": 19
+    },
+    {
+        "transactionType": "withdrawal",
+        "amount": 1100,
+        "receiver": "176",
+        "sender": "176",
+        "id": 20
+    }
+]
